@@ -1,0 +1,7 @@
+#gameGround {
+		background-image:url("media/background1.png");
+		border: solid 1px black;
+		position:absolute;
+		left:0;
+		top:0;
+	}
